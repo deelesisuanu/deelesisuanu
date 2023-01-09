@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deelesi Suanu
 =====================================================================================================================================
 
-Senior Backend Engineer
+Software Engineer
 -----------------------
 
 Self Driven Engineer with over 6 years of experience that places figuratively cutting edge collaborative and team efforts. Being intentional towards my Professional and Personal growth, I am currently focused on developing advanced skills in software development and leadership at mid-senior management levels.
