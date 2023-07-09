@@ -100,8 +100,16 @@ src="https://img.shields.io/github/followers/deelesisuanu?logo=github&style=for-
 
 Below are links and list of my open source projects/contributions. Use at your leisure and feel free to [buy me a coffee](https://www.buymeacoffee.com/deelesisuanu)
 
-* Invoice Generator [@auto invoice generator](https://deelesisuanu.github.io/auto-invoice/)
-* Wallet Sandbox [@wallet sandbox](https://deelesisuanu.github.io/payment-wallet-sandbox/)
+* Invoice Generator [@auto invoice generator](https://github.com/deelesisuanu/auto-invoice)
+* Wallet Sandbox [@wallet sandbox](https://github.com/deelesisuanu/payment-wallet-sandbox)
+* Wordpress Ecommerce Helper [@wp helper](https://github.com/deelesisuanu/wp-helper)
+* ECR 20 Frontend [@ecr20 frontend](https://github.com/deelesisuanu/erc20-e-commerce-frontend)
+* ECR 20 Backend Processor [@ecr20 backend processor](https://github.com/deelesisuanu/erc20-processor-backend)
+* ECR 20 Solidity Processor [@ecr20 solidity processor](https://github.com/deelesisuanu/erc20-processor-solidity)
+* Agora Broadcast Demo [@agora broadcast demo](https://github.com/deelesisuanu/agora-broadcast-livestream)
+* Sample Admin Scalfold [@sample admin scalfold](https://deelesisuanu.github.io/sample-admin-ola/)
+* Video Compressor using FFMPEG [@video compressor](https://github.com/deelesisuanu/video-compressor)
+* Scalfold Python Chatbot [@python chatbot](https://github.com/deelesisuanu/chatbot)
 
 ### Support Me
 
