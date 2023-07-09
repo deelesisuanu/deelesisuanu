@@ -96,6 +96,13 @@ src="https://img.shields.io/github/followers/deelesisuanu?logo=github&style=for-
 
 <b>Top Repositories</b>
 
+### Open Source / Contributions
+
+Below are links and list of my open source projects/contributions. Use at your leisure and feel free to [buy me a coffee](https://www.buymeacoffee.com/deelesisuanu)
+
+* Invoice Generator [@auto invoice generator](https://deelesisuanu.github.io/auto-invoice/)
+* Wallet Sandbox [@wallet sandbox](https://deelesisuanu.github.io/payment-wallet-sandbox/)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/deelesisuanu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
