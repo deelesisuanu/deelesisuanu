@@ -6,7 +6,7 @@ Software Engineer
 
 Self Driven Engineer with over 6 years of experience that places figuratively cutting edge collaborative and team efforts. Being intentional towards my Professional and Personal growth, I am currently focused on developing advanced skills in software development and leadership at mid-senior management levels.
 
-* 🌍  I'm based in Port Harcourt, Nigeria
+* 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [@deelesi.suanu](http://https://linktr.ee/deelesi.suanu)
 * ✉️  You can contact me at [deelesisuanu@gmail.com](mailto:deelesisuanu@gmail.com)
 * 🚀  I'm currently working on [\==](http://inprogress)
